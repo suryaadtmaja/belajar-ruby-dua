@@ -1,0 +1,4 @@
+
+
+Error: divided by 0 --- 2018-11-13 17:44:35 +0700
+Error: undefined method `/' for true:TrueClass --- 2018-11-13 17:44:35 +0700
